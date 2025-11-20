@@ -209,10 +209,3 @@ CI/CD akan menjalankan:
 
 ---
 
-Jika Anda ingin versi:
-
-🔹 Multi-environment (prod/staging)
-🔹 Zero downtime pakai Traefik / Nginx Proxy Manager
-🔹 Auto SSL dengan Let's Encrypt
-🔹 Notifikasi Telegram setelah deploy
-
